@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+ 
+
+	<com.google.android.maps.MapView
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:id="@+id/mapview"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:clickable="true"
+    	android:apiKey="0jLf77axnImMrjGwbuPRjC_fuinX0TIu5Um0ytA"
+    />
+  <RelativeLayout 
+ 	android:layout_above="@+id/Button01" 
+  	android:id="@+id/RelativeLayout02"
+  	android:gravity="center_horizontal"
+  	android:layout_width="wrap_content" 
+  	android:layout_height="fill_parent"
+ 	>
+      <TextView 
+	        android:text="Parada:" 
+	        android:textColor="#000000" 
+	        android:id="@+id/TextView02" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content"
+       		>
+       </TextView>
+        
+        <EditText 
+        	android:id="@+id/EditText01" 
+        	android:text="" 
+        	android:numeric="integer" 
+        	android:layout_width="60px" 
+        	android:layout_height="wrap_content">
+        </EditText>
+	
+	  
+    <TextView 
+    	android:text="Linea:  " 
+    	android:textColor="#000000" 
+    	android:id="@+id/TextView03" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content">
+    </TextView>
+        
+    <EditText 
+    	android:text="" 
+    	android:id="@+id/EditText02" 
+    	android:layout_width="40px" 
+    	android:layout_height="wrap_content">
+    </EditText>
+	<Button 
+		android:text="buscar"
+		android:id="@+id/Button01" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+	</Button>
+    <TextView 
+    	android:text = ""
+    	android:id = "@+id/PrimerBus"
+    	android:textSize = "20px"
+    	android:textStyle = "bold"
+    	android:textColor = "#ffffff"
+    	android:layout_width = "wrap_content"
+    	android:layout_height = "wrap_content">
+    </TextView>
+    
+    <TextView 
+    	android:text = ""
+    	android:id = "@+id/SegundoBus"
+    	android:textSize = "20px"
+    	android:textStyle = "bold"
+    	android:textColor = "#ffffff"
+    	android:layout_width = "wrap_content"
+    	android:layout_height = "wrap_content">
+    </TextView>
+    </RelativeLayout>
+   
+</LinearLayout>

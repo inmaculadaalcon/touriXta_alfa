@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+		android:title = "@string/Escoge_Escuela">
+		<CheckBoxPreference
+			android:key = "checkbox_Ing_tec_ind"
+			android:title = "@string/Esc_ing_tec"
+			android:summary = "@string/summary_bus">
+		</CheckBoxPreference>
+		<CheckBoxPreference
+			android:key = "checkbox_Fac_Derecho"
+			android:title = "@string/Fac_Der"
+			android:summary = "@string/summary_taxi">
+		</CheckBoxPreference>
+		<CheckBoxPreference
+			android:key = "checkbox_Esc_Ingeniero"
+			android:title = "@string/Esc_Tec_Sup_Ing"
+			android:summary = "@string/summary_sevici">
+		</CheckBoxPreference>
+	</PreferenceCategory>
+	<PreferenceCategory
+		android:title = "@string/dialog">
+		<!--<EditTextPreference 
+			android:key = "edit_text"
+			android:title = "@string/title"
+			android:summary = "@string/summary"
+			android:dialogTitle = "@string/dialog"
+		/>
+		--><ListPreference 
+			android:key = "list_preference"
+			android:title = "@string/title_list_preference"
+			android:summary = "@string/summary"
+			android:entries = "@array/entries"
+			android:entryValues="@array/entryValues"
+			android:dialogTitle = "@string/dialog"
+			/>		
+	</PreferenceCategory>
+</PreferenceScreen>

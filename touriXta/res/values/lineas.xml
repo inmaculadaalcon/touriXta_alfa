@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="lineas">
+                <item>01: PGNO.NORTE - GLORIETA PLUS ULTRA</item>
+                <item>02: BARQUETA - GLORIETA HELIOPOLIS</item>
+                <item>05: PUERTA TRIANA - SANTA AURELIA</item>
+                <item>06: SAN LAZARO - GLORIETA HELIOPOLIS</item>
+                <item>10: PONCE DE LEÓN - SAN JERONIMO</item>
+                <item>11: PONCE DE LEÓN - LOS PRINCIPES</item>
+                <item>12: PONCE DE LEÓN - PINO MONTANO</item>
+                <item>13: PLAZA DUQUE - PINO MONTANO</item>
+                <item>14: PLAZA DUQUE - POLIGONO NORTE</item>
+                <item>15: PONCE DE LEÓN - SAN DIEGO</item>
+                <item>16: PZA.JERON. CORDOBA - VALDEZORRAS</item>
+                <item>20: PONCE DE LEÓN - PGNO. SAN PABLO</item>
+                <item>21: PRADO - POLIGONO SAN PABLO</item>
+                <item>22: PRADO - SEVILLA ESTE</item>
+                <item>24: PONCE DE LEÓN - PALMETE</item>
+                <item>25: PRADO - ROCHELAMBERT</item>
+                <item>26: PRADO - CERRO DEL AGUILA</item>
+                <item>27: PONCE DE LEÓN - SEVILLA ESTE</item>
+                <item>28: PRADO - PARQUE ALCOSA</item>
+                <item>29: PRADO - TORREBLANCA</item>
+                <item>30: PRADO - LA PAZ</item>
+                <item>31: PRADO - POLIGONO SUR</item>
+                <item>32: PONCE DE LEÓN - POLIGONO SUR</item>
+                <item>34: PRADO - LOS BERMEJALES</item>
+                <item>37: PRADO - BELLAVISTA</item>
+                <item>38: PRADO - PÍTAMO</item>
+                <item>39: LOS ARCOS-HACIENDA SAN ANTONIO</item>
+                <item>40: PLAZA MAGDALENA - TRIANA</item>
+                <item>41: PUERTA DE JEREZ - TABLADA</item>
+                <item>43: PLAZA MAGDALENA - EL TURRUÑUELO</item>
+                <item>52: GRAN PLAZA - PALMETE</item>
+                <!--<item>B3: GRAN PLAZA - SANTA CLARA</item>
+                <item>B4: GRAN PLAZA - TORREBLANCA</item>
+                <item>B5: PLAZA DE ARMAS - SAN JERONIMO</item>
+                <item>C1: ISLA DE LA CARTUJA - PRADO</item>
+                <item>C2: ISLA DE LA CARTUJA - PRADO</item>
+                <item>C3: BARQUETA - PRADO</item>
+                <item>C4: BARQUETA - PRADO</item>
+                <item>C5: PLAZA S. FRANCISCO - PLAZA DUQUE</item>
+                <item>C6: SAN JERÓNIMO-VALDEZORRAS</item>
+                <item>CC: PONCE DE LEÓN - DUQUE</item>
+                <item>EA: ESPECIAL AEROPUERTO</item>
+                <item>T1: PLAZA NUEVA - PRADO</item>-->    
+        </string-array>
+</resources>

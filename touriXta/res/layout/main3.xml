@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                >
+                <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dip"
+                        android:text="Línea:"
+                 />
+                <Spinner
+                        android:id="@+id/spLinea"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginRight="10dip"
+                        android:prompt="@string/lineas_prompt"
+                        android:entries="@array/lineas"
+                         />     
+        </LinearLayout>
+        
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                >
+                <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dip"
+                        android:text="Parada:"
+                        />
+                <!--<EditText
+                        android:layout_width="60dip"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="10dip"
+                        android:id="@+id/parada"
+                        android:inputType="number"/>
+                --><Spinner
+                        android:id="@+id/spParada"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginRight="10dip"
+                        android:prompt="@string/lineas_prompt" />
+        </LinearLayout>
+                
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dip" 
+                android:layout_gravity="center"
+                android:text="Comprobar"
+                android:id="@+id/btCheck"
+                android:drawableLeft="@android:drawable/ic_menu_view" />
+                
+        <TextView
+                android:id="@+id/menuAdvice"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="100dip"
+                android:layout_marginLeft="50dip"
+                android:visibility="gone"
+                android:text="V Menu V"
+                android:gravity="bottom"
+             />
+
+</LinearLayout>

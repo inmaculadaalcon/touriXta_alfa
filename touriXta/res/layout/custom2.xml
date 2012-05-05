@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+		android:title = "@string/inline_preferences">
+		<CheckBoxPreference
+			android:key = "checkbox_preference1"
+			android:title = "@string/bus"
+			android:summary = "@string/summary_bus">
+		</CheckBoxPreference><!--
+		<CheckBoxPreference
+			android:key = "checkbox_preference2"
+			android:title = "@string/taxi"
+			android:summary = "@string/summary_taxi">
+		</CheckBoxPreference>
+		--><CheckBoxPreference
+			android:key = "checkbox_preference3"
+			android:title = "@string/sevici"
+			android:summary = "@string/summary_sevici">
+		</CheckBoxPreference>
+	</PreferenceCategory>
+	<PreferenceCategory
+		android:title = "@string/dialog">
+		<ListPreference 
+			android:key = "list_preference"
+			android:title = "@string/title_list_preference"
+			android:summary = "@string/summary"
+			android:entries = "@array/entries"
+			android:entryValues="@array/entryValues"
+			android:dialogTitle = "@string/dialog"
+			/>		
+	</PreferenceCategory>
+</PreferenceScreen>

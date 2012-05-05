@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>rec_inf_pol</name>
+	<Style id = "sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotspot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>rec_inf_pol</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>-6.00208908319473,37.3745524852148,0 -6.001561,37.374575,0 -5.996031,37.374731,0 -5.994833,37.374722,0 -5.994567,37.374711,0 -5.993733,37.374858,0 -5.992878,37.37505,0 -5.991842,37.375281,0 -5.991711,37.37525,0 -5.991517,37.375158,0 -5.991375,37.374986,0 -5.990833,37.374128,0 -5.990267,37.373167,0 -5.989442,37.371797,0 -5.988508,37.370275,0 -5.987053,37.367861,0 -5.9862,37.366411,0 -5.985408,37.365125,0 -5.9855,37.365056,0 -5.985875,37.364878,0 -5.985992,37.364772,0 -5.986089,37.363636,0 -5.986136,37.362881,0 -5.986183,37.361514,0 -5.98635,37.358183,0</coordinates>
+		</LineString>
+	</Placemark>	
+</Document>
+</kml>

@@ -1,0 +1,35 @@
+<Estadios>
+			<Estadio id = "1">
+				<Name> Estadio Benito Villamarín</Name>
+				<descripcion_breve>
+					El Estadio Benito Villamarín se ubica en la avenida de la Palmera en Sevilla, barrio de Heliópolis y pertenece al club de fútbol Real Betis Balompié.
+				</descripcion_breve>
+				<descripcion>
+					El Estadio se halla en una parcela muy estrecha, con diferente nivel de cota entre la zona de fondo (Avda. de la Palmera) y la de Preferencia (Calle Ifni). Por ello se decide mantener el nivel previo del terreno de juego según la situación de más baja cota.
+					La principal característica del estadio es su función única de fútbol, y la escasa dimensión de la parcela, así como la capacidad última que será de 64.000 espectadores (será el estadio con mayor aforo de Andalucía), provoca que estos estén muy encima del terreno de juego, favoreciendo el calor ambiental y el derroche de emociones.
+					En su totalidad el estadio está catalogado como el cuarto mayor campo de España y de los más modernos de Europa. La atmósfera, las estructuras, la amplitud y la comodidad son sus grandes factores para la emoción y visionado del fútbol.
+				</descripcion>
+			</Estadio>
+			<Estadio id = "2">
+				<Name> Estadio Ramón Sánchez Pizjuán</Name>
+				<descripcion_breve>
+				 El Estadio Ramón Sánchez Pizjuán es el escenario que utiliza el equipo Sevilla Fútbol Club para jugar sus partidos oficiales. Esta situado en la Calle Sevilla Fútbol Club s/n, colindante con Avenida Eduardo Dato del barrio de Nervión. El estadio es propiedad del Sevilla FC y debe su nombre al que fuera presidente del club durante 17 años
+				</descripcion_breve>
+				<descripcion>
+				El entonces presidente del Sevilla FC, Ramón Sánchez-Pizjuán, compró en 1937 los terrenos sobre los que se edificaría el nuevo estadio, aunque habría que esperar hasta 1954 para que se empezaran a dar los primeros pasos. Se realizó un concurso de diseños, el cual fue ganado por Manuel Muñoz Monasterio, el mismo arquitecto que poco antes había colaborado con Luis Alemany Soler en el diseño del Estadio Santiago Bernabéu.
+				Tras la muerte de Ramón Sánchez Pizjuán, fue su sucesor, Ramón de Carranza, quién se ocupó del equipo y del estadio, poniendo la primera piedra del mismo el 2 de diciembre de 1956.
+				Fue inaugurado el 7 de septiembre de 1958 con un partido amistoso entre el Sevilla Fútbol Club y el Real Jaén, que acabó con empate a 3 goles. No obstante el estadio aún se encontraba inacabado. Hubo que esperar hasta 1974, siendo presidente Eugenio Montes Cabeza, para el fin de las obras, alcanzando en aquella época su máxima capacidad con más de 77.000 espectadores	
+				</descripcion>
+			</Estadio>
+			<Estadio id = "3">
+				<Name>Estadio Olímpico</Name>
+				<descripcion_breve>
+					El Estadio Olímpico de Sevilla se encuentra ubicado en la Isla de la Cartuja junto al recinto ocupado en su día por la Exposición Universal de 1992. Se trata de un enclave de privilegio entre la principal zona verde de la ciudad,  el Parque del Alamillo, el parque temático “Isla Mágica”, el parque tecnológico “Cartuja’93”, diversas facultades universitarias y otras parcelas de uso deportivo (pistas de atletismo de la Cartuja y el Centro de Alto Rendimiento).
+				</descripcion_breve>
+				<descripcion>
+					El estadio fue inaugurado por los Reyes de España el 5 de mayo de 1999 en un partido de fútbol que enfrentó a las selecciones de España y Croacia, con resultado de 3-1. A partir del 20 de agosto de 1999 albergó el 7º Campeonato Mundial de Atletismo de la IAAF, evento que motivó su construcción.
+					La idea de la Sociedad Estadio Olímpico de Sevilla era que una vez finalizado el Mundial de Atletismo se produjera el traslado de los dos grandes clubes de la ciudad, Real Betis y Sevilla FC, de forma que usasen como sede el estadio alternando una semana los seguidores de uno y otro club como se hace en diversos estadios italianos, compromiso que ambos clubes habían rubricado al entrar a formar parte de dicha sociedad.
+					Finalmente, los aficionados de ambos clubes mostraron su descontento con esta idea inicial, lo que derivó en que ninguno de estos tomara como sede permanente de competición el Estadio Olímpico, aunque ocasionalmente si ha sido utilizado por ambos en partidos oficiales.
+				</descripcion>
+			</Estadio>
+</Estadios>

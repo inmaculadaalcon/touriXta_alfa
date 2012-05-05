@@ -1,0 +1,29 @@
+<Escuelas>
+			<Escuela id ="1">
+				<Name> 	Escuela Técnica Superior de Ingenieria Informática</Name>
+				<descripcion_breve>
+					Es el centro de la Universidad de Sevilla dónde se imparten las carreras de Ingeniería Informática, Ingeniería Técnica Informática de Sistemas e Ingeniería Técnica Informática de Gestión. Si desea obtener más información de este edificio pulse el botón más
+				</descripcion_breve>
+				<descripcion>
+					La informática en la Universidad de Sevilla por fin había conseguido a mediados de los noventa su estatus de ingeniería, pero aún no contaba con un centro propio. El 3 de julio de 2001, el Consejo de Gobierno de la Junta de Andalucía aprobó la creación de la Escuela Técnica Superior de Ingeniería Informática, con sede en el edificio de la antigua Escuela Técnica Superior de Ingenieros Industriales. Para aquel entonces, esta escuela ya había terminado su mudanza a las nuevas instalaciones en la Isla de la Cartuja y había dejado libre el Edificio Blanco.Se trataba de un edificio antiguo. Por este motivo, desde el primer día fue necesario acometer múltiples reformas para rehabilitarlo y convertirlo en una gran sede para los estudios de Ingeniería Informática. Los estudios superiores de Informática en la Universidad de Sevilla inician su andadura en el curso académico 1985/1986, con la adscripción de la titulación de Diplomado en Informática, Especialidades Gestión y Sistemas Físicos a la antigua Escuela Universitaria de Ingeniería Técnica Industrial. durante el curso 1990/91, se creó la Facultad de Informática y Estadística, para la que se construyó un nuevo edificio en el campus de Reina Mercedes al que pronto se empezó a hacer referencia como el Edificio Rojo
+				</descripcion>
+			</Escuela>
+			<Escuela id = "2">
+				<Name> Escuela Politécnica</Name>
+				<descripcion_breve>
+					Es el centro de la Universidad de Sevilla dónde se imparten las carreras de Grado de Ingeniería en Diseño Industrial y Desarrollo del Producto, Ingeniería Eléctrica, Ingeniería Electrónica Industrial, Ingeniería Mecánica e Ingeniería Química Industrial. Si desea obtener más información de este edificio pulse el botón más
+				</descripcion_breve>
+				<descripcion>
+					La Escuela Politécnica Superior de Sevilla, como Centro de Educación Superior de la Universidad de Sevilla de amplísima experiencia en el área de la ingeniería industrial y con una tradición centenaria en Andalucía, tiene como Misión la prestación del servicio público de formación de Ingenieros Técnicos Industriales y de Ingenieros en Diseño Industrial y Desarrollo del Producto dentro del marco de las directrices legales que regulan sus estudios y de los principios establecidos en  los Estatutos de la Universidad de Sevilla.La Visión estratégica de la Escuela Politécnica Superior es la de constituirse en una Escuela Politécnica con vocación de contribuir al desarrollo socioeconómico a través de prestar un servicio público de formación de Ingenieros mediante el estudio, la docencia y la investigación, con unos proyectos formativos de Grado y Máster Universitario de máxima calidad académica, comprometidos con una formación integral de las personas y que se caracterice en su tarea por el dinamismo, la innovación, la calidad y la mejora continua.
+				</descripcion>
+			</Escuela>
+			<Escuela id = "3">
+				<Name> Escuela Técnica Superior de Ingeniería</Name>
+				<descripcion_breve>
+			 		Es el centro de la Universidad de Sevilla dónde se imparten las siguientes 7 titulaciones,  Ingeniero Industrial, Ingeniero de Telecomunicación, Ingeniero Químico, Ingeniero en Automática y Electrónica Industrial, Ingeniero de Organización Industrial, Ingeniero en Electrónica e Ingeniero Aeronáutico. Si desea obtener más información de este edificio pulse el botón más 
+				</descripcion_breve>
+				<descripcion>
+					Esta escuela está ubicada en la Isla de la Cartuja, en el que fuera el Pabellón de América durante la Exposición Universal de 1992. Esta escuela cuenta en la actualidad con cerca de 5000 alumnos que son formados por más de 400 profesores, siendo el número anual de egresados superior a 400 ingenieros. Estas cifras se incrementarán sensiblemente en los años próximos.
+				</descripcion>
+			</Escuela>
+</Escuelas>

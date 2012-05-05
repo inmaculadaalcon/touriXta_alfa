@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	android:id="@+id/RelativeLayout01"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+   <ImageView android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:id="@+id/ImageView01"
+	android:layout_marginLeft="30dip"
+	android:layout_marginTop="160dip"
+	android:layout_centerHorizontal="true"
+	android:layout_centerVertical="true"
+	android:background="@drawable/logo">
+    </ImageView> 
+	
+    <RelativeLayout 
+ 	android:layout_above="@+id/Button01" 
+  	android:id="@+id/RelativeLayout02"
+  	android:gravity="center_horizontal"
+  	android:layout_width="wrap_content" 
+  	android:layout_height="fill_parent">
+ 
+      <Button
+      android:layout_width="100dp" 
+  
+    	android:layout_height="wrap_content" 
+    	android:layout_alignParentBottom="true" 
+		android:visibility="visible" 
+    	android:textStyle="bold" 
+    	android:textSize="20sp" 
+    		android:id="@+id/BotonEntrar" 
+    	android:text="Entrar"
+    	android:ellipsize="none">
+       </Button>
+   
+      <Button 
+   	android:layout_height="wrap_content" 
+   	android:layout_alignParentBottom="true" 
+   	android:layout_alignParentRight="true" 
+   	android:text="Salir" 
+   	android:layout_width="100sp" 
+   	android:id="@+id/BotonSalir" 
+   	android:textStyle="normal|bold" 
+   	android:textSize="20sp" 
+   	android:textColor="@color/negro">
+      </Button>
+   </RelativeLayout>
+</RelativeLayout>

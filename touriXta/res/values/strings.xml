@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, touriXta!</string>
+    <string name="app_name">touriXta</string>
+    <string name="Salir">Salir</string>
+	<string name="Entrar">Entrar</string>	
+	<string name="chk1">Sevici</string>
+	<string name="chk2">Bus</string>
+	<string name="chk3">Taxi</string>
+	<string name="inline_preferences">¿Bus o Sevici?</string>
+	<string name="title">Titulo</string>
+	<string name="summary">Sumario</string>
+	<string name="summary_taxi">Selecciona si desea ver paradas de taxi</string>
+	<string name="summary_bus">Seleccione si desea ver paradas de bus</string>
+	<string name="summary_sevici">Seleccione si desea ver para	das de sevici</string>
+	<string name="title_list_preference">Vista de Mapa</string>
+	<string name="Escoge_Escuela">Escoge otra escuela</string>
+	<string name="Esc_ing_tec">Escuela Politécncia Superior</string>
+	<string name="Fac_Der">Facultad de Derecho</string>
+	<string name="Esc_Tec_Sup_Ing">Escuela Técnica Superior de Ingenieros</string>
+    <string name="lineas_prompt">Líneas</string>
+	<string name="dialog">Preferencias </string>
+	<string name="bus">Paradas de Bus</string>
+	<string name="taxi">Paradas de Taxi</string>
+	<string name="sevici">Paradas de Sevici</string>
+		
+</resources>

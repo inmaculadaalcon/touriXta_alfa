@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Datos>
+<Ciudad> Sevilla </Ciudad>
+		<Monumentos>
+			<Monumento id="1">
+				<Name>CatedralSevilla</Name>
+				<descripcion_breve>
+				Catedral de Sevilla
+				</descripcion_breve>
+				<descripcion>
+				Catedral de Sevilla. Qué bonica que es
+				</descripcion> 
+			</Monumento>
+			<Monumento id="2">
+				<Name>Iglesia 1</Name>
+					<descripcion_breve>
+				Iglesia 1
+				</descripcion_breve>
+				<descripcion>
+					Otra iglesia, porque esto son iglesias
+				</descripcion>	
+			</Monumento>
+			<Monumento id ="3">
+				<Name>Iglesia 2</Name>
+				<descripcion_breve>
+					Iglesia 2
+				</descripcion_breve>
+				<descripcion>
+					Iglesia 2. Otra iglesia 2
+				</descripcion>
+			</Monumento>
+		</Monumentos>
+		<Escuelas>
+			<Escuela id ="1">
+				<Name> 	Escuela Técnica Superior de Ingenieria Informática</Name>
+				<descripcion_breve>
+					ETSII
+				</descripcion_breve>
+				<descripcion>
+					La escuela aoirjtoierjter
+				</descripcion>
+			</Escuela>
+			<Escuela id = "2">
+				<Name> Politécnica</Name>
+				<descripcion_breve>
+					Escuela Politécnica
+				</descripcion_breve>
+				<descripcion>
+					blablabalbnalbalbalbalabala
+				</descripcion>
+			</Escuela>
+			<Escuela id = "3">
+				<Name> Derecho</Name>
+				<descripcion_breve>
+					la facul de derecho
+				</descripcion_breve>
+				<descripcion>
+					la facul de derecho bla bla bla
+				</descripcion>
+			</Escuela>
+		</Escuelas>
+		<Estadios>
+			<Estadio id = "1">
+				<Name> Estadio Benito Villamarín</Name>
+				<descripcion_breve>
+					Estadio del betis
+				</descripcion_breve>
+				<descripcion>
+					El estadio del betis bal blabalblabalbalba
+				</descripcion>
+			</Estadio>
+			<Estadio id = "2">
+				<Name> Estadio del Sevilla</Name>
+				<descripcion_breve>
+					Estadio del Sevilla
+				</descripcion_breve>
+				<descripcion>
+					blablabalbalabalbalablaba
+				</descripcion>
+			</Estadio>
+			<Estadio id = "3">
+				<Name>Estadio Olimpico</Name>
+				<descripcion_breve>
+					Estadio Olimpico
+				</descripcion_breve>
+				<descripcion>
+					Estadio olimpico kasneriaujroajreaw
+				</descripcion>
+			</Estadio>
+		</Estadios>
+</Datos>

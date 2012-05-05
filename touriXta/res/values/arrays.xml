@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name = "entries">
+		<item>Vista Satélite</item>
+		<item>Vista Callejero</item>
+	</array>
+	<array name = "entryValues">
+		<item>valor1</item>
+		<item>valor2</item>
+	</array>
+</resources>
